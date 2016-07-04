@@ -55,7 +55,7 @@ namespace FollowMe
 
             var ap = ApplicationData.Current.LocalSettings;
 
-            //ap.Values["Language"] = null;//la inserisco per test
+            //ap.Values["Language"] = null;//la inserisco per test hh
 
             if (ap.Values["Language"] == null)
             {
